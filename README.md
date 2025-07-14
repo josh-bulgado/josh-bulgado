@@ -26,24 +26,6 @@
 
 <div align="center">
 
-<a href="https://github.com/josh-bulgado">
-  <img 
-    height=200
-    src="https://github-readme-stats.vercel.app/api?username=josh-bulgado&theme=tokyonight&hide_rank=true&show_icons=true" />
-</a>
-<a href="https://github.com/josh-bulgado">
-  <img
-    height=200
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-bulgado&layout=compact&langs_count=6&theme=tokyonight"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bulgado-88802233a/)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/josh.bulgado/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:j.ll.bulgado@gmail.com)
