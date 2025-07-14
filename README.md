@@ -1,73 +1,59 @@
-# Hey there! I'm Josh 👋
+<div align="center">
 
-I'm a 3rd year IT student from the Philippines, currently building projects and learning new technologies.  
-I'm passionate about improving my **frontend and backend development skills**, exploring **SaaS tools**, and preparing for my **capstone project** while working on side projects.
+# 👋🏼 Hey! I'm Joshua Bulgado ([@josh-bulgado](https://github.com/josh-bulgado))
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=1000&center=true&vCenter=true&width=1000&height=30&lines=Full-Stack+Dev+in+Progress+🚀;Frontend+%7C+Backend+%7C+SaaS+Exploration;Building+capstone+%26+side+projects+along+the+way)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
-
-### **Languages**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white&style=for-the-badge)
+</div>
 
 ---
 
-### **Frontend**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,csharp,html,css,react,tailwind,supabase,mysql,postgres,git,figma" />
+  </a>
+</p>
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![ShadCN](https://img.shields.io/badge/-ShadCN-000000?logo=radixui&logoColor=white&style=for-the-badge)
+<div align="center">
 
----
+| **🖥️ Backend & DB** | **🌐 Frontend** | **🖱️ UI & Desktop** |
+| :---: | :---: | :---: |
+| Java, Supabase, SQL, MySQL, PostgreSQL | React, Tailwind CSS, ShadCN UI | Avalonia, XAML, JavaFX, SceneBuilder |
 
-### **UI & Desktop Development**
-
-![Avalonia](https://img.shields.io/badge/-Avalonia-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![XAML](https://img.shields.io/badge/-XAML-0C54C1?logo=microsoft&logoColor=white&style=for-the-badge)
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=openjdk&logoColor=white&style=for-the-badge)
-![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-6DB33F?logo=java&logoColor=white&style=for-the-badge)
-
----
-
-### **Backend & Databases**
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Microsoft SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+</div>
 
 ---
 
-### **Other Tools**
+<div align="center">
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+<a href="https://github.com/josh-bulgado">
+  <img 
+    height=200
+    src="https://github-readme-stats.vercel.app/api?username=josh-bulgado&theme=tokyonight&hide_rank=true&show_icons=true" />
+</a>
+<a href="https://github.com/josh-bulgado">
+  <img
+    height=200
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-bulgado&layout=compact&langs_count=6&theme=tokyonight"
+  />
+</a>
+
+</div>
 
 ---
 
-## 🚀 Projects
+<div align="center">
 
-Most of my projects are still **private** for now.  
-Stay tuned for future updates! 😊
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bulgado-88802233a/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/josh.bulgado/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:j.ll.bulgado@gmail.com)
 
----
-
-## 📫 Connect with Me
-
-- **Email:** j.ll.bulgado@gmail.com  
-- **LinkedIn:** [linkedin.com/in/joshua-bulgado-88802233a](https://www.linkedin.com/in/joshua-bulgado-88802233a/)  
-- **Facebook:** [facebook.com/josh.bulgado](https://www.facebook.com/josh.bulgado/)
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
 - Preparing for my **Capstone Project**  
-- Learning new tech and improving my **Full-Stack Development skills**  
-- Exploring **SaaS tools** and building side projects  
+- Building side projects to improve **Full-Stack skills**  
+- Exploring **SaaS tools**, frameworks, and new tech  
