@@ -18,7 +18,7 @@
 
 | **🖥️ Backend & DB** | **🌐 Frontend** | **🖱️ UI & Desktop** |
 | :---: | :---: | :---: |
-| Java, Supabase, SQL, MySQL, PostgreSQL | React, Tailwind CSS, ShadCN UI | Avalonia, XAML, JavaFX, SceneBuilder |
+| Java, Supabase, SQL, MySQL, PostgreSQL | React, Tailwind CSS, ShadCN UI | XAML, JavaFX, SceneBuilder |
 
 </div>
 
@@ -26,9 +26,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bulgado-88802233a/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bulgado/)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/josh.bulgado/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:j.ll.bulgado@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshua.l.bulgado@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/JoshRefactored)
+
 
 </div>
 
@@ -36,6 +38,5 @@
 
 ## 🎯 Current Focus
 
-- Preparing for my **Capstone Project**  
 - Building side projects to improve **Full-Stack skills**  
 - Exploring **SaaS tools**, frameworks, and new tech  
